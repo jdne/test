@@ -1,0 +1,15 @@
+###########
+# site.title
+
+title:    'Project'
+subtitle: 'CS 113'
+
+
+#########################
+# more settings
+
+markdown: kramdown
+
+exclude:
+- README.md
+- LICENSE.md
